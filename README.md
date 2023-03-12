@@ -54,7 +54,7 @@ Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App
 - :bell: - Benachrichtigungen bei Verspätungen
 ---
 #### Grundbausteine
- - :fire: - Hot feature
+- :fire: - Hot feature
 - :zap: - Schnell und leistungsfähig
 - :lock: - Sichere Funktionen
 - :mag_right: - Suchfunktionen
