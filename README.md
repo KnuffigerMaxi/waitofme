@@ -80,6 +80,7 @@ Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App
 - [Emojis & Icons](https://emojipedia.org/)
 <br>
 ---
+
 ## Projektstatus
 
 ### :hourglass:  Projekt ist in der Entwicklung
