@@ -1,25 +1,46 @@
 <h1 align="center">🚂 Deutsche Bahn Abfahrtsmonitor 🚉</h1>
 
-<p align="center">
-
+---
 <img src="https://img.shields.io/badge/react-17.0.2-blue.svg" alt="React"> <img src="https://img.shields.io/badge/AG_Grid-27.1.0-green.svg" alt="AG Grid"><img src="https://img.shields.io/badge/API-Deutsche%20Bahn-yellow.svg" alt="Deutsche Bahn API"><img src="https://img.shields.io/badge/OpenAI-API-orange.svg" alt="OpenAI API"><img src="https://img.shields.io/badge/Yarn-1.22.17-blue.svg" alt="Yarn"><img src="https://img.shields.io/badge/ESLint-8.2.0-blue.svg" alt="ESLint"><img src="https://img.shields.io/badge/Prettier-2.4.1-blue.svg" alt="Prettier"><img src="https://img.shields.io/badge/TypeScript-4.4.3-blue.svg" alt="TypeScript"><img src="https://img.shields.io/badge/React_Project-2023-blue.svg" alt="React Project">
 
+---
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white) ![Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A6F8D?logo=axios&logoColor=white) ![Moment.js](https://img.shields.io/badge/-Moment.js-000000?logo=moment&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
 
-[![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://www.instagram.com/guneskaval/) <img src="https://img.shields.io/badge/Emojis_%26_Icons-Yes-green.svg" alt="Emojis & Icons"> ![VS Code Insiders](https://img.shields.io/badge/VS%20Code-Insiders-blue.svg?logo=visual-studio-code&logoColor=white)
+---
+<p align="center">Made with ❤️ & Gecoded mit VS Code Insiders</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Bootstrapped%20with-Create%20React%20App-blueviolet.svg" />
+  <p>
+    <a href="https://www.instagram.com/guneskaval/">
+      <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love" />
+    </a>
+    <img src="https://img.shields.io/badge/Emojis_%26_Icons-Yes-green.svg" alt="Emojis & Icons" />
+    <img src="https://img.shields.io/badge/VS%20Code-Insiders-blue.svg?logo=visual-studio-code&logoColor=white" alt="VS Code Insiders" />
+  </p>
+</div>
 
 ---
-[![Build Status](https://github.com/<username>/<project>/actions/workflows/<workflow-name>/badge.svg)](https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/<workflow-name>)
-[![Build Status](https://gitlab.com/<username>/<project>/badges/<branch>/pipeline.svg)](https://gitlab.com/KnuffigerMaxi/WaitOfMe/pipelines)
+<!-- [![Build Status](https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/waitofme/badge.svg)](https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/waitofme)
+[![Build Status](https://gitlab.com/KnuffigerMaxi/WaitOfMe/badges/dev/pipeline.svg)](https://gitlab.com/KnuffigerMaxi/WaitOfMe/pipelines)
 
 <a href="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/main.yml"><img src="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
 </p>
+ -->
+
+<div align="center">
+  <a href="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/dev"><img src="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/dev/badge.svg" alt="Build Status"></a>
+  <a href="https://gitlab.com/KnuffigerMaxi/WaitOfMe/pipelines"><img src="https://gitlab.com/KnuffigerMaxi/WaitOfMe/badges/dev/pipeline.svg" alt="Pipeline Status"></a>
+  <a href="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/main.yml"><img src="https://github.com/KnuffigerMaxi/WaitOfMe/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
+</div>
+
 
 ---
 <p align="center">
   <i>React app that uses the Deutsche Bahn API to display train departure times from Hamburg Hauptbahnhof.</i>
-
+  
+---
 ### TODO: Implement your IDEA
+---
 ## WaitOfMe - Wartezeiten im Blick
 
 Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App zeigt dir in Echtzeit, wie lange es noch dauert, bis dein Zug ankommt. So kannst du deine Zeit am Bahnhof effizienter nutzen und verpasst garantiert keinen Zug mehr.
@@ -27,10 +48,21 @@ Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App
 
 ### Features
 
-- Echtzeit-Daten von der Deutschen Bahn
-- Übersichtliche Darstellung der Wartezeiten
-- Automatische Aktualisierung der Daten
-- Benachrichtigungen bei Verspätungen
+- :bar_chart: - Echtzeit-Daten von der Deutschen Bahn
+- :hourglass: - Übersichtliche Darstellung der Wartezeiten
+- :arrows_counterclockwise: - Automatische Aktualisierung der Daten
+- :bell: - Benachrichtigungen bei Verspätungen
+---
+#### Grundbausteine
+ - :fire: - Hot feature
+- :zap: - Schnell und leistungsfähig
+- :lock: - Sichere Funktionen
+- :mag_right: - Suchfunktionen
+- :chart_with_upwards_trend: - Analytics-Funktionen
+- :art: - Benutzeroberflächen-Design
+- :gear: - Konfigurationsoptionen
+- :globe_with_meridians: - Mehrsprachige Unterstützung
+- :iphone: - Mobile Responsivität
 
 ### Technologien
 
@@ -47,8 +79,10 @@ Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App
 - [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
 - [Emojis & Icons](https://emojipedia.org/)
 <br>
+---
+## Projektstatus
 
-### Projektstatus
+### :hourglass:  Projekt ist in der Entwicklung
 
 Dieses Projekt wurde zuletzt im Jahr 2023 aktualisiert und verwendet die neuesten Versionen der verwendeten Technologien.</p></div>
 </p>
@@ -63,6 +97,7 @@ Dieses Projekt wurde zuletzt im Jahr 2023 aktualisiert und verwendet die neueste
 4. Set your DB API key in the `App.tsx` file.
 5. Start the app with `yarn start`.
 
+---
 ## 🚀 Usage
 
 Once you've started the app, train departure times from Hamburg Hauptbahnhof will be displayed in real time. The app automatically updates every 30 seconds to ensure that you always have the latest information.
@@ -98,7 +133,7 @@ In the project directory, you can run:
 🔧 All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them.\
 🚫 At this point, you're on your own. You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. 🚫
 
-<br />
+---
 
 # 🧬 Project structure
 
@@ -131,32 +166,28 @@ This is the structure of the files in the project:
     ├── README.md
     └── tsconfig.json
 ```
-<br>
-
-## 💡 Credits
-
-This app uses the following technologies and APIs:
-
+----
 
 ## 👨‍💻 Autor
 
 KnuffigerMaxi - [Maxi's GitHub Profile](https://github.com/KnuffigerMaxi)
 
+---
+
 ## 📝 Lizenz
  This app is licensed under the MIT License. See the `LICENSE` file for more information.
+
+ ---
 # 📖 Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## used cra-template-complete-web-app
+ - #### ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) [CRA template with: typescript, axios, sass, react-router, redux and much more already configured.](https://github.com/ChrisUser/cra-template-complete-web-app)
+
+- ### ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) [NPM Pakages CRA Template CWA](https://www.npmjs.com/package/cra-template-complete-web-app?activeTab=explore)
+
+
+#### To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
-<p align="center">Bootstrapped with Create React App.</p>
-
-<p align="center">Made with ❤️ & Gecoded mit VS Code Insiders</p>
-
-
-
----
-
-
