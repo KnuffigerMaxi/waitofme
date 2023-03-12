@@ -79,6 +79,7 @@ Mit WaitOfMe behältst du die Wartezeiten an deinen Bahnhöfen im Blick. Die App
 - [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
 - [Emojis & Icons](https://emojipedia.org/)
 <br>
+
 ---
 
 ## Projektstatus
