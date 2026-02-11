@@ -10,7 +10,7 @@
     "ag-grid-angular": "^29.1.0",
     "ag-grid-community": "^29.1.0",
     "ag-grid-react": "^29.1.0",
-    "axios": "^1.12.2",
+    "axios": "^1.13.5",
     "cors": "^2.8.5",
     "cors-anywhere": "^0.4.4",
     "eslint-plugin-prettier": "^4.2.1",
